@@ -3,7 +3,7 @@ Summary(pl):	Debugger do Emacs Lispa
 Name:		xemacs-edebug-pkg
 %define 	srcname	edebug
 Version:	1.20
-Release:	4
+Release:	5
 License:	GPL
 Group:		Applications/Editors/Emacs
 Source0:	ftp://ftp.xemacs.org/xemacs/packages/%{srcname}-%{version}-pkg.tar.gz
