@@ -2,7 +2,7 @@ Summary:	An Emacs Lisp debugger
 Summary(pl):	An Emacs Lisp debugger
 Name:		xemacs-edebug-pkg
 %define 	srcname	edebug
-Version:	1.09
+Version:	1.11
 Release:	1
 License:	GPL
 Group:		Applications/Editors/Emacs
