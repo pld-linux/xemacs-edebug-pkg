@@ -1,5 +1,5 @@
 Summary:	An Emacs Lisp debugger
-Summary(pl.UTF-8):   Debugger do Emacs Lispa
+Summary(pl.UTF-8):	Debugger do Emacs Lispa
 Name:		xemacs-edebug-pkg
 %define 	srcname	edebug
 Version:	1.20
