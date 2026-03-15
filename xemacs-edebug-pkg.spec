@@ -2,13 +2,13 @@ Summary:	An Emacs Lisp debugger
 Summary(pl.UTF-8):	Debugger do Emacs Lispa
 Name:		xemacs-edebug-pkg
 %define 	srcname	edebug
-Version:	1.22
+Version:	1.24
 Release:	1
 License:	GPL
 Group:		Applications/Editors/Emacs
-Source0:	http://ftp.xemacs.org/xemacs/packages/%{srcname}-%{version}-pkg.tar.gz
-# Source0-md5:	6e09f822e66a8ce871b0cee68387e244
-URL:		http://www.xemacs.org/
+Source0:	http://ftp.xemacs.org/pub/xemacs/packages/%{srcname}-%{version}-pkg.tar.gz
+# Source0-md5:	e2f6b3ce224cab0cef4fd0dbbd5dd5a5
+URL:		https://www.xemacs.org/
 BuildArch:	noarch
 Conflicts:	xemacs-sumo
 Requires:	xemacs
